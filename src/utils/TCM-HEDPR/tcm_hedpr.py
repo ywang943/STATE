@@ -41,7 +41,7 @@ from sklearn.preprocessing import normalize
 # CONFIG
 # ─────────────────────────────────────────────
 API_URL   = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
-API_KEY   = "7bc70a62f11a48c18b00284cac02a7305753c7e4cce748bdb6d80791cfd32459"
+API_KEY   = ""
 MODEL     = "gpt-4"
 TOP_K     = 10          # evaluate at K=10 (P@10, R@10, F1@10)
 MAX_SIMILAR = 5         # similar patients retrieved for context
