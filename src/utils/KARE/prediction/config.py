@@ -37,7 +37,7 @@ API_URL   = os.environ.get(
 )
 API_KEY   = os.environ.get(
     "OPENAI_API_KEY",
-    "7bc70a62f11a48c18b00284cac02a7305753c7e4cce748bdb6d80791cfd32459"
+    ""
 )
 LLM_MODEL        = "gpt-4"
 LLM_TEMP_REASON  = 0.2
