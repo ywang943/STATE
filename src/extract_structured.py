@@ -12,7 +12,7 @@ os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 # ======================================
 # ======================================
 GPT_API_URL = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
-GPT_API_KEY = "874e40a79e924dd8a3695e20b619aaf7121b91563f3b4948af29b5fd10cdffc0"
+GPT_API_KEY = ""
 
 HEADERS = {
     "Content-Type": "application/json",
